@@ -16,7 +16,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/motorola/lyriq/device.mk)
 
 PRODUCT_DEVICE := lyriq
-PRODUCT_NAME := omni_lyriq
+PRODUCT_NAME := twrp_lyriq
 PRODUCT_BRAND := motorola
 PRODUCT_MODEL := motorola edge 40
 PRODUCT_MANUFACTURER := motorola
